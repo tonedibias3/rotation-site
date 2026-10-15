@@ -1,0 +1,18 @@
+# Rotation
+
+> Rotation is a closet and outfit log app. Log what you wear, see what you actually wear, track cost per wear, and share your outfit, shoe of the day or scent of the day. Free during the beta. No account. Data stays on your device.
+
+Rotation runs in a phone's browser today and can be added to the home screen. App Store and Google Play versions are coming soon. Beta access is by DM on Instagram (@rotation.fit) or X (@rotationfit).
+
+## Pages
+
+- [Home](https://rotation.fit/): What Rotation does, screenshots, beta access steps and FAQ
+- [Outfit log app](https://rotation.fit/outfit-log-app/): Log outfits, plan on a calendar, see what you wear most
+- [Cost per wear](https://rotation.fit/cost-per-wear-tracker/): What cost per wear is and how to track it
+- [Shoe rotation app](https://rotation.fit/shoe-rotation-app/): Track sneakers and set a shoe of the day
+- [Scent of the day tracker](https://rotation.fit/scent-of-the-day-tracker/): Log your fragrance each day and share it
+- [Privacy policy](https://rotation.fit/privacy.html): No accounts, no ads, no analytics, no tracking
+
+## Contact
+
+hello@rotation.fit
