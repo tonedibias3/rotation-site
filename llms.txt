@@ -7,10 +7,13 @@ Rotation runs in a phone's browser today and can be added to the home screen. Ap
 ## Pages
 
 - [Home](https://rotation.fit/): What Rotation does, screenshots, beta access steps and FAQ
-- [Outfit log app](https://rotation.fit/outfit-log-app/): Log outfits, plan on a calendar, see what you wear most
-- [Cost per wear](https://rotation.fit/cost-per-wear-tracker/): What cost per wear is and how to track it
-- [Shoe rotation app](https://rotation.fit/shoe-rotation-app/): Track sneakers and set a shoe of the day
-- [Scent of the day tracker](https://rotation.fit/scent-of-the-day-tracker/): Log your fragrance each day and share it
+- [How to organize your closet](https://rotation.fit/how-to-organize-your-closet/): An 8 step guide that starts with what you actually wear.
+- [Digital wardrobe app](https://rotation.fit/digital-wardrobe-app/): What to look for in a digital wardrobe app, and how Rotation handles each point.
+- [Closet organizer app](https://rotation.fit/closet-organizer-app/): Sort your closet into sections and see which pieces are resting.
+- [Outfit planner app](https://rotation.fit/outfit-log-app/): Plan outfits on a calendar, log what you wore and see what you actually wear.
+- [Cost per wear tracker](https://rotation.fit/cost-per-wear-tracker/): What cost per wear is, how to work it out and how to track it without a spreadsheet.
+- [Shoe rotation app](https://rotation.fit/shoe-rotation-app/): Track your sneakers, set a shoe of the day and see which pairs are resting.
+- [Scent of the day tracker](https://rotation.fit/scent-of-the-day-tracker/): Log your fragrance each day and share your scent of the day on its own.
 - [Privacy policy](https://rotation.fit/privacy.html): No accounts, no ads, no analytics, no tracking
 
 ## Contact
